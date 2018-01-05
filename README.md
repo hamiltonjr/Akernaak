@@ -15,3 +15,7 @@ Project:
 - develop graphical interface for the game
 - develop an Android version and post in the Google Store
 
+A new information: analyzing the code I believe that none got to run the program like it was typed from the magazine because it has a lot 
+of bugs. I believe that someone debugged it a lot. Thus, I decided to go to the Java development of the game.
+ 
+
